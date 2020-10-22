@@ -10,24 +10,24 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-red {
+#red {
   color: red;
 }
-orange{
+#orange{
   color: orange;
 }
-yellow {
+#yellow {
   color: yellow;
 }
-green {
+#green {
   color: green;
 }
-blue {
+#blue {
   color: blue;
 }
-violet {
+#violet {
   color: purple;
 }
-indigo {
+#indigo {
   color: indigo;
 }
